@@ -7,6 +7,6 @@ The impulse response that is used for the convolution reverb (controlled by the 
 Chown's Piano was recorded using two AKG C414s, and all the piano note samples were played/recorded by Aden Travis. The virtual instrument was made, and produced, by Aden Travis using HISE (https://hise.dev/).
 
 Where to Download Instrument and Samples:
-Visit https://adentravis.weebly.com/chownspiano.html to download the instrument/samples for Chown's Piano
+https://adentravis.weebly.com/chownspiano.html
 
 Hise is released under GPLv3 open source license. Chown's Piano Instrument is a free/GPLv3 open source licensed public domain instrument... 
