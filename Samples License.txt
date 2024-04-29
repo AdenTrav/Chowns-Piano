@@ -1,0 +1,17 @@
+Both the pedal up, and down, samples, as well as the release trigger samples, are from the Salamander Grand Piano by Alexander Holm. 
+(https://sfzinstruments.github.io/pianos/salamander/) 
+
+The pedal, and release trigger, samples that are used, are from the Salamander Grand Piano. licensed under CC-BY-3.0. (https://creativecommons.org/licenses/by/3.0/deed.en)
+
+Samples licensed under CC-BY-3.0 include:
+PNChownsPianoMainMonolithFile_PEDAL_DOWN_E3_rr1_pedal_down.wav
+PNChownsPianoMainMonolithFile_PEDAL_DOWN_E3_rr4_pedal_down.wav
+PNChownsPianoMainMonolithFile_RT_A4_rr1_rt
+PNChownsPianoMainMonolithFile_RT_A1_rr1_rt.wav
+PNChownsPianoMainMonolithFile_RT_A3_rr1_rt.wav
+PNChownsPianoMainMonolithFile_RT_A2_rr1_rt.wav
+PNChownsPianoMainMonolithFile_RT_A5_rr1_rt.wav
+
+ALL OTHER SAMPLES ARE RECORDED BY ADEN TRAVIS AND ARE LICENSED UNDER:
+Creative Commons Attribution-ShareAlike 4.0 International 
+(https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
