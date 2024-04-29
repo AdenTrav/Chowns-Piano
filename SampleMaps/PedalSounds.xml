@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap CrossfadeGamma="1.0" ID="PedalSounds" RRGroupAmount="2.0" MicPositions=";"
+           SaveMode="2">
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_PEDAL_DOWN_E3_rr4_pedal_down.wav"
+          Duplicate="0" LoopEnd="210159" SampleEnd="273417" Volume="-13"
+          MonolithOffset="0" MonolithLength="282624" SampleRate="44100.0"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_PEDAL_DOWN_E3_rr1_pedal_down.wav"
+          Duplicate="0" LoopEnd="57677" SampleEnd="245848" Volume="0" MonolithOffset="282624"
+          MonolithLength="290816" SampleRate="44100.0"/>
+</samplemap>

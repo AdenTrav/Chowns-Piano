@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="ChownifySampleMap" RRGroupAmount="1.0" MicPositions=";" CrossfadeGamma="1.0"
+           SaveMode="2">
+  <sample Root="47" LoKey="21" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="C:\Users\adent\Videos\Final Project\Video 2\HISE CHOWN PIANO\AudioFiles\dont_save_me.wav"
+          Duplicate="0" SampleEnd="249600" MonolithOffset="0" MonolithLength="249856"
+          SampleRate="48000.0"/>
+</samplemap>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="PedalUp" RRGroupAmount="1.0" MicPositions=";" CrossfadeGamma="1.0"
+           SaveMode="2">
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_PEDAL_UP_E3_rr3_pedal_up.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="4764" SampleStart="4764"
+          LoopEnd="56030" SampleEnd="56030" Volume="-10" MonolithOffset="0"
+          MonolithLength="77824" SampleRate="44100.0"/>
+</samplemap>

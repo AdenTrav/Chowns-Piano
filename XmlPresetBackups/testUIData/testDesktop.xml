@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptButton" id="Button1" x="100.0" y="100.0" text="Sustain"
+             tooltip="indicator for whether or not sustain is active" bgColour="1442182645"
+             itemColour="1714564911" itemColour2="4211081216" isPluginParameter="1"
+             width="100.0" height="30.0"/>
+  <Component type="ScriptSlider" id="Knob1" x="500.0" y="420.0" width="180.0"
+             height="50.0" text="Room Mix" textColour="4293503013" itemColour2="4211081216"
+             itemColour="1711539204" bgColour="3872635423" tooltip="Adds room reverb from where this piano was recorded..."/>
+  <Component type="ScriptSlider" id="Knob4" x="600.0" y="100.0" width="100.0"
+             height="48.0" text="Tuning" textColour="4293305376"/>
+  <Component type="ScriptSlider" id="Knob5" x="500.0" y="260.0" text="Chownify"
+             width="200.0" height="40.0"/>
+  <Component type="ScriptLabel" id="Label1" x="250.0" y="380.0" width="290.0"
+             height="28.0" text="Controls" fontSize="28.0" fontName="Baskerville Old Face"
+             textColour="4293305376"/>
+  <Component type="ScriptSlider" id="Knob2" x="310.0" y="420.0" width="180.0"
+             height="50.0" text="Hammer Noise" textColour="4293503013" itemColour2="4211081216"
+             itemColour="1711539204" bgColour="3872635423" tooltip="Adds room reverb from where this piano was recorded..."/>
+  <Component type="ScriptSlider" id="Knob3" x="120.0" y="420.0" width="180.0"
+             height="50.0" text="Pedal Noise" textColour="4293503013" itemColour2="4211081216"
+             itemColour="1711539204" bgColour="3872635423" tooltip="Adds room reverb from where this piano was recorded..."/>
+  <Component type="ScriptPanel" id="Panel1" x="0.0" y="160.0" width="800"
+             height="100" itemColour="3426894145" itemColour2="1409286143"/>
+  <Component type="ScriptFloatingTile" id="FloatingTile1" x="0.0" y="520.0"
+             width="800" height="100" locked="1" ContentType="Keyboard" bgColour="4284769380"
+             itemColour="452984831" itemColour2="4294967295" textColour="0"
+             Data="{&#10;  &quot;KeyWidth&quot;: 14.0,&#10;  &quot;DisplayOctaveNumber&quot;: false,&#10;  &quot;LowKey&quot;: 9,&#10;  &quot;HiKey&quot;: 127,&#10;  &quot;CustomGraphics&quot;: false,&#10;  &quot;DefaultAppearance&quot;: true,&#10;  &quot;BlackKeyRatio&quot;: 0.699999988079071,&#10;  &quot;ToggleMode&quot;: false,&#10;  &quot;MidiChannel&quot;: 1,&#10;  &quot;UseVectorGraphics&quot;: true,&#10;  &quot;UseFlatStyle&quot;: false,&#10;  &quot;MPEKeyboard&quot;: false,&#10;  &quot;MPEStartChannel&quot;: 2,&#10;  &quot;MPEEndChannel&quot;: 16&#10;}"/>
+</ContentProperties>

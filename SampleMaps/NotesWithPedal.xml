@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="NotesWithPedal" RRGroupAmount="3.0" MicPositions=";" CrossfadeGamma="1.0"
+           SaveMode="2">
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A5_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="0" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A5_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="401408" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A5_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="802816" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#5_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="1204224" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#5_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="1605632" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#5_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="2007040" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#5_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="2408448" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#5_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="2809856" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#5_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="3211264" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C5_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="3612672" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C5_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="4014080" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C5_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="4415488" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A4_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="4816896" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A4_rr2_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2897" SampleStart="2897"
+          LoopEnd="597517" SampleEnd="597517" MonolithOffset="5419008"
+          MonolithLength="602112" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A4_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="6021120" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#4_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="6623232" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#4_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="7225344" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#4_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="7827456" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#4_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="8429568" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#4_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="9031680" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#4_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="9633792" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C4_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="10235904" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C4_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="10838016" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C4_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="11440128" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A3_rr3_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="16288" SampleStart="16288"
+          LoopEnd="698251" SampleEnd="698251" MonolithOffset="12042240"
+          MonolithLength="700416" SampleRate="48000.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A3_rr2_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="3090" SampleStart="3090"
+          LoopEnd="695553" SampleEnd="695553" MonolithOffset="12742656"
+          MonolithLength="700416" SampleRate="48000.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A3_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="13443072" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#3_rr3_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="25752" SampleStart="25752"
+          LoopEnd="693770" SampleEnd="693770" MonolithOffset="14143488"
+          MonolithLength="700416" SampleRate="48000.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#3_rr2_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="23434" SampleStart="23434"
+          LoopEnd="696564" SampleEnd="696564" MonolithOffset="14843904"
+          MonolithLength="700416" SampleRate="48000.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#3_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="15544320" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#3_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="16244736" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#3_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="16945152" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#3_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="17645568" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C3_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="18345984" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C3_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="19046400" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C3_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="19746816" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A2_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="20447232" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A2_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="21147648" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A2_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="21848064" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#2_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="22548480" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#2_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="23248896" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#2_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="23949312" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#2_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="24649728" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#2_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="25350144" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#2_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="26050560" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C2_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="26750976" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C2_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="27451392" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C2_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="28151808" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A1_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="28852224" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="29552640" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#1_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="30253056" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="30953472" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#1_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="31653888" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="32354304" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C1_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="33054720" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C1_rr1_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="50000" SampleStart="50000"
+          LoopEnd="694931" SampleEnd="694931" MonolithOffset="33755136"
+          MonolithLength="700416" SampleRate="48000.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A0_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="34455552" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#0_rr1_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="5472" SampleStart="5472"
+          LoopEnd="796022" SampleEnd="796022" MonolithOffset="35258368"
+          MonolithLength="802816" SampleRate="48000.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#0_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="36061184" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C0_rr1_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="6502" SampleStart="6502"
+          LoopEnd="797793" SampleEnd="797793" MonolithOffset="36864000"
+          MonolithLength="802816" SampleRate="48000.0"/>
+  <sample Root="21" LoKey="21" HiKey="23" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A-1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="37666816" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C7_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="38469632" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A6_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="38772736" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#6_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="39075840" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#6_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="39378944" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C6_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="39682048" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A5_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="39985152" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A5_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="40386560" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A5_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="40787968" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#5_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="41189376" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#5_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="41590784" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#5_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="41992192" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#5_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="42393600" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#5_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="42795008" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#5_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="43196416" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C5_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="43597824" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C5_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="43999232" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C5_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="44400640" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A4_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="44802048" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A4_rr2_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="24529" SampleStart="24529"
+          LoopEnd="597105" SampleEnd="597105" MonolithOffset="45404160"
+          MonolithLength="602112" SampleRate="48000.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A4_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="46006272" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#4_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="46608384" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#4_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="47210496" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#4_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="47812608" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#4_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="48414720" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#4_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="49016832" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#4_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="49618944" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C4_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="50221056" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C4_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="50823168" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C4_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="51425280" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A3_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="52027392" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A3_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="52727808" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A3_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="53428224" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#3_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="54128640" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#3_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="54829056" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#3_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="55529472" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#3_rr3_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="21953" SampleStart="21953"
+          LoopEnd="698223" SampleEnd="698223" MonolithOffset="56229888"
+          MonolithLength="700416" SampleRate="48000.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#3_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="56930304" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#3_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="57630720" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C3_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="58331136" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C3_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="59031552" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C3_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="59731968" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A2_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="60432384" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A2_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="61132800" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A2_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="61833216" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#2_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="62533632" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#2_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="63234048" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#2_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="63934464" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#2_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="64634880" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#2_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="65335296" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#2_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="66035712" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C2_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="66736128" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C2_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="67436544" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C2_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="68136960" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A1_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="68837376" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="69537792" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#1_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="70238208" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="70938624" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#1_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="71639040" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="72339456" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C1_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="73039872" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="73740288" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A0_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="74440704" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#0_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="75243520" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#0_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="76046336" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C0_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="76849152" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="21" LoKey="21" HiKey="23" LoVel="42" HiVel="84" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A-1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="77651968" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C7_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="78454784" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_A6_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="78757888" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_F#6_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="79060992" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_D#6_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="79364096" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C6_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="79667200" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="93" LoKey="93" HiKey="95" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_A5_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="79970304" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="90" LoKey="90" HiKey="92" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_F#5_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="80371712" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="87" LoKey="87" HiKey="89" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_D#5_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="80773120" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="84" LoKey="84" HiKey="86" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C5_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="400000" MonolithOffset="81174528" MonolithLength="401408"
+          SampleRate="48000.0"/>
+  <sample Root="81" LoKey="81" HiKey="83" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_A4_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="81575936" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="78" LoKey="78" HiKey="80" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_F#4_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="82178048" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="75" LoKey="75" HiKey="77" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_D#4_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="82780160" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="72" LoKey="72" HiKey="74" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C4_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="600000" MonolithOffset="83382272" MonolithLength="602112"
+          SampleRate="48000.0"/>
+  <sample Root="69" LoKey="69" HiKey="71" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_A3_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="83984384" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="66" LoKey="66" HiKey="68" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_F#3_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="84684800" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="63" LoKey="63" HiKey="65" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_D#3_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="85385216" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="60" LoKey="60" HiKey="62" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C3_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="86085632" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="57" LoKey="57" HiKey="59" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_A2_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="86786048" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="54" LoKey="54" HiKey="56" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_F#2_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="87486464" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="51" LoKey="51" HiKey="53" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_D#2_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="88186880" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="48" LoKey="48" HiKey="50" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C2_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="88887296" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_A1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="89587712" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_F#1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="90288128" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_D#1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="90988544" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="91688960" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_A0_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="92389376" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_F#0_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="93192192" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_D#0_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="93995008" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C0_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="94797824" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="21" LoKey="21" HiKey="23" LoVel="85" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_A-1_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="95600640" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C7_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="96403456" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A6_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="96706560" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#6_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="97009664" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#6_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="97312768" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="42" RRGroup="1"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C6_rr1_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="97615872" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#0_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="97918976" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C0_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="98721792" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="21" LoKey="21" HiKey="23" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A-1_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="99524608" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A0_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="100327424" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="60" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#0_rr2_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="3992" SampleStart="3992"
+          LoopEnd="793979" SampleEnd="793979" MonolithOffset="101130240"
+          MonolithLength="802816" SampleRate="48000.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#0_rr2_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="4700" SampleStart="4700"
+          LoopEnd="796022" SampleEnd="796022" MonolithOffset="101933056"
+          MonolithLength="802816" SampleRate="48000.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#0_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="102735872" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C0_rr2_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="6760" SampleStart="6760"
+          LoopEnd="797793" SampleEnd="797793" MonolithOffset="103538688"
+          MonolithLength="802816" SampleRate="48000.0"/>
+  <sample Root="21" LoKey="21" HiKey="23" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A-1_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="104341504" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="59" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A0_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="105144320" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="42" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C6_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="105947136" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="42" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C7_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="106250240" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="42" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#6_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="106553344" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="84" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C7_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="106856448" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="84" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_A6_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="107159552" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="84" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_F#6_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="107462656" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="84" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C6_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="107765760" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="0" HiVel="42" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C7_rr2_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2446" SampleStart="2446"
+          LoopEnd="293962" SampleEnd="293962" MonolithOffset="108068864"
+          MonolithLength="303104" SampleRate="48000.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="0" HiVel="42" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A6_rr2_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1223" SampleStart="1223"
+          LoopEnd="296624" SampleEnd="296624" MonolithOffset="108371968"
+          MonolithLength="303104" SampleRate="48000.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="42" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#6_rr2_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1223" SampleStart="1223"
+          LoopEnd="298548" SampleEnd="298548" MonolithOffset="108675072"
+          MonolithLength="303104" SampleRate="48000.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="42" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#6_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="108978176" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="42" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#6_rr2_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="1223" SampleStart="1223"
+          LoopEnd="295375" SampleEnd="295375" MonolithOffset="109281280"
+          MonolithLength="303104" SampleRate="48000.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="84" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_D#6_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="109584384" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="42" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C6_rr2_withpedal.wav"
+          Duplicate="1" SampleEnd="300000" MonolithOffset="109887488" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="42" HiVel="84" RRGroup="2"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A6_rr2_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="110190592" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="42" HiVel="84" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#6_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="110493696" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="0" HiVel="41" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A0_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="110796800" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A1_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="111599616" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="21" LoKey="21" HiKey="23" LoVel="0" HiVel="41" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A-1_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="112300032" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="0" HiVel="41" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_A6_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="113102848" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="0" HiVel="41" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C0_rr3_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="6631" SampleStart="6631"
+          LoopEnd="797793" SampleEnd="797793" MonolithOffset="113405952"
+          MonolithLength="802816" SampleRate="48000.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C1_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="114208768" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="0" HiVel="41" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C6_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="114909184" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="0" HiVel="41" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_C7_rr3_withpedal.wav"
+          Duplicate="0" LoopXFade="0" LoopStart="2640" SampleStart="2640"
+          LoopEnd="293962" SampleEnd="293962" MonolithOffset="115212288"
+          MonolithLength="303104" SampleRate="48000.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="0" HiVel="41" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#0_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="115515392" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#1_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="116318208" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="0" HiVel="41" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_D#6_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="117018624" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="0" HiVel="41" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#0_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="117321728" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="59" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#1_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="118124544" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="0" HiVel="41" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_P_F#6_rr3_withpedal.wav"
+          Duplicate="0" Pitch="-100" SampleEnd="300000" MonolithOffset="118824960"
+          MonolithLength="303104" SampleRate="48000.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="85" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_A0_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="119128064" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="21" LoKey="21" HiKey="23" LoVel="85" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_A-1_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="119930880" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="85" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_A6_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="120733696" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="85" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C0_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="121036800" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="85" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C6_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="121839616" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="85" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_C7_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="122142720" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="85" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_D#0_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="122445824" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="85" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_D#6_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="123248640" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="85" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_F#0_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="123551744" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="102" LoKey="102" HiKey="104" LoVel="85" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_F_F#6_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="124354560" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="33" LoKey="33" HiKey="35" LoVel="42" HiVel="84" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A0_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="124657664" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="45" LoKey="45" HiKey="47" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A1_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="125460480" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="21" LoKey="21" HiKey="23" LoVel="42" HiVel="84" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A-1_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="126160896" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="105" LoKey="105" HiKey="107" LoVel="42" HiVel="84" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_A6_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="126963712" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="24" LoKey="24" HiKey="26" LoVel="42" HiVel="84" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C0_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="127266816" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="36" LoKey="36" HiKey="38" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C1_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="128069632" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="96" LoKey="96" HiKey="98" LoVel="42" HiVel="84" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C6_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="128770048" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="108" LoKey="108" HiKey="108" LoVel="42" HiVel="84" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_C7_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="129073152" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="27" LoKey="27" HiKey="29" LoVel="42" HiVel="84" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#0_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="129376256" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="39" LoKey="39" HiKey="41" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#1_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="130179072" MonolithLength="700416"
+          SampleRate="48000.0"/>
+  <sample Root="99" LoKey="99" HiKey="101" LoVel="42" HiVel="84" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_D#6_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="300000" MonolithOffset="130879488" MonolithLength="303104"
+          SampleRate="48000.0"/>
+  <sample Root="30" LoKey="30" HiKey="32" LoVel="42" HiVel="84" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#0_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="800000" MonolithOffset="131182592" MonolithLength="802816"
+          SampleRate="48000.0"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="60" HiVel="127" RRGroup="3"
+          FileName="{PROJECT_FOLDER}PNChownsPianoMainMonolithFile_MF_F#1_rr3_withpedal.wav"
+          Duplicate="0" SampleEnd="700000" MonolithOffset="131985408" MonolithLength="700416"
+          SampleRate="48000.0"/>
+</samplemap>

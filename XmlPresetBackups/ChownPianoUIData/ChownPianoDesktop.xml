@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContentProperties DeviceType="Desktop">
+  <Component type="ScriptPanel" id="BGPanel2" x="-1.0" y="160.0" width="800.0"
+             height="240.0" bgColour="16777215" itemColour="4294967295" itemColour2="4294967295"/>
+  <Component type="ScriptPanel" id="ControlsBGPanel" x="-20.0" y="110.0" width="840.0"
+             height="50.0" text="" bgColour="4293849590" itemColour="4293849590"
+             itemColour2="4293849590" textColour="4293849590"/>
+  <Component type="ScriptImage" id="Image1" x="0.0" y="160.0" width="800.0"
+             height="260.0" fileName="{PROJECT_FOLDER}IMG20240418131232.jpg"
+             offset="500.0">
+    <Component type="ScriptPanel" id="Panel3" x="-10.0" y="0.0" parentComponent="Image1"
+               width="820.0" height="270.0" itemColour="268435456" itemColour2="4278190080"
+               bgColour="1124073471" holdIsRightClick="0" locked="1"/>
+    <Component type="ScriptPanel" id="Panel4" x="250.0" y="80.0" width="310.0"
+               height="60.0" itemColour="4290032820" itemColour2="3045952909"
+               textColour="4282992969" parentComponent="Image1"/>
+  </Component>
+  <Component type="ScriptPanel" id="Panel5" x="250.0" y="300.0" width="310.0"
+             height="80.0" itemColour="4290032820" itemColour2="3045952909"
+             textColour="4282992969"/>
+  <Component type="ScriptPanel" id="Panel2" x="250.0" y="160.0" width="310.0"
+             height="60.0" itemColour="4290032820" itemColour2="3045952909"
+             textColour="4282992969"/>
+  <Component type="ScriptButton" id="Button1" x="0.0" y="110.0" text="Sustain"
+             tooltip="indicator for whether or not sustain is active" bgColour="1442182645"
+             itemColour="1714564911" itemColour2="4211081216" width="100.0"
+             height="50.0"/>
+  <Component type="ScriptSlider" id="Knob1" x="330.0" y="340.0" width="130.0"
+             height="50.0" text="Room Mix" textColour="4293503013" itemColour2="4211081216"
+             itemColour="2113929215" bgColour="3875531368" tooltip="Adds room reverb recorded in Fine Arts 115"
+             mode="Decibel" suffix=" dB" middlePosition="-58.5" useUndoManager="1"
+             showValuePopup="Below" isPluginParameter="1" pluginParameterName="Room Mix"
+             filmstripImage="{PROJECT_FOLDER}Button and Slider PNG Renders/DD-slider.png"
+             numStrips="31.0" dragDirection="Horizontal" scaleFactor="1.100000023841858"
+             isMetaParameter="1" processorId="Convolution Reverb1" parameterId="WetGain"
+             min="-100.0" max="-17.0" stepSize="1.0" defaultValue="-17.0"/>
+  <Component type="ScriptLabel" id="Label1" x="250.0" y="120.0" width="290.0"
+             height="30.0" text="Controls" fontSize="28.0" fontName="Baskerville Old Face"
+             textColour="4293305376" locked="1"/>
+  <Component type="ScriptSlider" id="Knob2" x="373.0" y="168.0" width="50.0"
+             height="50.0" text="Release Trigger Noise" textColour="4293503013"
+             itemColour2="4211081216" itemColour="2113929215" bgColour="3875531368"
+             mode="NormalizedPercentage" suffix="%" middlePosition="0.5" defaultValue="0.2000000029802322"
+             useUndoManager="1" showValuePopup="Above" isPluginParameter="1"
+             pluginParameterName="Release Trigger Noise" isMetaParameter="1"
+             processorId="Release Triggers" parameterId="Gain" filmstripImage="{PROJECT_FOLDER}Button and Slider PNG Renders/SmallKnob.png"
+             numStrips="31.0" scaleFactor="0.449999988079071" tooltip="controls volume of release triggers"/>
+  <Component type="ScriptSlider" id="Knob3" x="270.0" y="170.0" width="50.0"
+             height="60.0" text="Pedal Up Noise" textColour="4293503013" itemColour2="4211081216"
+             itemColour="2113928701" bgColour="3875531368" mode="NormalizedPercentage"
+             suffix="%" middlePosition="0.5" defaultValue="0.2000000029802322"
+             useUndoManager="1" showValuePopup="Above" pluginParameterName="Pedal Up Noise"
+             filmstripImage="{PROJECT_FOLDER}Button and Slider PNG Renders/SmallKnob.png"
+             numStrips="31.0" tooltip="controls volume of pedal up sound"
+             scaleFactor="0.449999988079071" isMetaParameter="1" isPluginParameter="1"
+             processorId="PedalUp" parameterId="Gain"/>
+  <Component type="ScriptPanel" id="Panel1" x="0.0" y="0.0" width="800.0"
+             height="100.0" itemColour="4291952640" itemColour2="2264924160"
+             textColour="3372220416" bgColour="1660944383"/>
+  <Component type="ScriptFloatingTile" id="fltKeyboard" x="0.0" y="10.0" ContentType="Keyboard"
+             bgColour="4278190080" itemColour="4294967295" itemColour2="4294967295"
+             textColour="0" Data="{&#10;  &quot;KeyWidth&quot;: 14.0,&#10;  &quot;DisplayOctaveNumber&quot;: true,&#10;  &quot;LowKey&quot;: 9,&#10;  &quot;HiKey&quot;: 108,&#10;  &quot;CustomGraphics&quot;: false,&#10;  &quot;DefaultAppearance&quot;: true,&#10;  &quot;BlackKeyRatio&quot;: 0.699999988079071,&#10;  &quot;ToggleMode&quot;: false,&#10;  &quot;MidiChannel&quot;: 1,&#10;  &quot;UseVectorGraphics&quot;: true,&#10;  &quot;UseFlatStyle&quot;: false,&#10;  &quot;MPEKeyboard&quot;: false,&#10;  &quot;MPEStartChannel&quot;: 2,&#10;  &quot;MPEEndChannel&quot;: 16&#10;}"
+             width="870.0" height="100.0" itemColour3="16777215"/>
+  <Component type="ScriptButton" id="Button2" x="100.0" y="110.0" text="Chownify"
+             width="130.0" height="50.0" tooltip="don't save me cause I'm already....."
+             isMetaParameter="1" pluginParameterName="Chownify" isPluginParameter="1"
+             processorId="Chown Sample" parameterId="Enabled"/>
+  <Component type="ScriptLabel" id="Label2" x="121.0" y="125.0" width="63"
+             height="23" text="Chownify" bgColour="4293849590" textColour="4293305376"
+             fontName="ALS Script" fontStyle="Italic" fontSize="20.0" locked="1"/>
+  <Component type="ScriptFloatingTile" id="FloatingTile1" x="600.0" y="117.0"
+             ContentType="PerformanceLabel" itemColour="16777215" itemColour2="0"
+             width="190.0" height="40.0" Font="Source Code Pro" bgColour="4293849590"
+             textColour="4278190080" locked="1"/>
+  <Component type="ScriptSlider" id="Fine" x="410.0" y="250.0" middlePosition="0.0"
+             stepSize="1.0" min="-100.0" max="100.0" suffix="ct" width="100.0"
+             height="50.0" filmstripImage="{PROJECT_FOLDER}Button and Slider PNG Renders/maschine-default-edit.png"
+             numStrips="31.0" scaleFactor="0.5" showValuePopup="Above" tooltip="Controls tuning of piano samples in cents"
+             useUndoManager="1"/>
+  <Component type="ScriptSlider" id="Coarse" x="270.0" y="250.0" middlePosition="0.0"
+             stepSize="1.0" min="-12.0" max="12.0" suffix="st" width="60.0"
+             height="50.0" filmstripImage="{PROJECT_FOLDER}Button and Slider PNG Renders/maschine-default-edit.png"
+             numStrips="31.0" scaleFactor="0.5" showValuePopup="Above" tooltip="Controls tuning of piano samples in semitones"
+             useUndoManager="1"/>
+  <Component type="ScriptSlider" id="Knob4" x="476.0" y="169.0" width="60.0"
+             height="50.0" text="Pedal Down Noise" textColour="4293503013"
+             itemColour2="4211081216" itemColour="2113929215" bgColour="3875531368"
+             tooltip="controls volume of pedal down sound" mode="NormalizedPercentage"
+             suffix="%" middlePosition="0.5" defaultValue="0.2000000029802322"
+             useUndoManager="1" showValuePopup="Above" isPluginParameter="1"
+             pluginParameterName="Pedal Down Noise" isMetaParameter="1" processorId="PedalDown"
+             parameterId="Gain" filmstripImage="{PROJECT_FOLDER}Button and Slider PNG Renders/SmallKnob.png"
+             numStrips="31.0" scaleFactor="0.449999988079071"/>
+  <Component type="ScriptLabel" id="Label3" x="250.0" y="220.0" text="Pedal Up Noise"
+             bgColour="4290559164" width="80.0" height="20.0" fontStyle="Bold"
+             itemColour="1612849698" itemColour2="4211081216" textColour="4278190080"
+             fontName="Lucida Sans" fontSize="12.0" locked="1"/>
+  <Component type="ScriptLabel" id="Label5" x="330.0" y="220.0" text="Release Trigger Noise"
+             bgColour="4290559164" width="120.0" height="20.0" itemColour="1612849698"
+             textColour="4278190080" fontStyle="Bold" fontName="Lucida Sans"
+             fontSize="12.0" locked="1"/>
+  <Component type="ScriptLabel" id="Label6" x="450.0" y="220.0" text="Pedal Down Noise"
+             bgColour="4290559164" width="110.0" height="20.0" itemColour="1612849698"
+             textColour="4278190080" fontStyle="Bold" fontName="Lucida Sans"
+             fontSize="12.0" locked="1"/>
+  <Component type="ScriptLabel" id="Label7" x="326.0" y="252.0" width="52"
+             height="43" text="Coarse Tuning" textColour="4278190080" fontName="ALS Script"
+             fontStyle="Bold" fontSize="20.0" locked="1"/>
+  <Component type="ScriptLabel" id="Label8" x="459.0" y="252.0" width="60"
+             height="43" text="Fine Tuning" textColour="4278190080" fontName="ALS Script"
+             fontStyle="Bold" fontSize="20.0" locked="1"/>
+  <Component type="ScriptLabel" id="Label4" x="4.0" y="370.0" text="Audio Settings"
+             bgColour="12369084" width="70.0" height="17.0" fontStyle="Bold"
+             itemColour2="0" fontName="Lucida Sans" fontSize="12.0" alignment="top"
+             locked="1"/>
+  <Component type="ScriptImage" id="Image2" x="330.0" y="300.0" fileName="{PROJECT_FOLDER}RoomMix2.png"
+             width="130.0" height="50.0" offset="150.0" locked="1"/>
+  <Component type="ScriptButton" id="Button3" x="10.0" y="390.0" width="47.0"
+             height="28.0" text="Midi Settings" filmstripImage="{PROJECT_FOLDER}Button and Slider PNG Renders/ST_button_Bypass_22x13_6f.png"
+             enableMidiLearn="0" numStrips="6.0" scaleFactor="2.0"/>
+  <Component type="ScriptPanel" id="Panel6" x="0.0" y="160.0" bgColour="4293849590"
+             itemColour="4293849590" itemColour2="4293849590" width="800.0"
+             height="202.0" textColour="4278190080" visible="0">
+    <Component type="ScriptFloatingTile" id="FloatingTile2" x="0.0" y="0.0"
+               parentComponent="Panel6" width="630.0" height="200.0" ContentType="CustomSettings"
+               bgColour="4278190080" itemColour="4278190080" itemColour2="4278190080"
+               Data="{&#10;  &quot;Driver&quot;: true,&#10;  &quot;Device&quot;: true,&#10;  &quot;Output&quot;: true,&#10;  &quot;BufferSize&quot;: true,&#10;  &quot;SampleRate&quot;: true,&#10;  &quot;GlobalBPM&quot;: false,&#10;  &quot;StreamingMode&quot;: true,&#10;  &quot;ScaleFactor&quot;: true,&#10;  &quot;VoiceAmountMultiplier&quot;: false,&#10;  &quot;ClearMidiCC&quot;: true,&#10;  &quot;SampleLocation&quot;: true,&#10;  &quot;DebugMode&quot;: false,&#10;  &quot;UseOpenGL&quot;: false,&#10;  &quot;ScaleFactorList&quot;: [&#10;    0.5,&#10;    0.75,&#10;    1.0,&#10;    1.25,&#10;    1.5,&#10;    2.0&#10;  ]&#10;}"
+               itemColour3="4278190080" FontSize="15.0" textColour="4278190080"/>
+  </Component>
+  <Component type="ScriptButton" id="Button4" x="100.0" y="390.0" width="47.0"
+             height="28.0" text="Midi Settings" filmstripImage="{PROJECT_FOLDER}Button and Slider PNG Renders/ST_button_Bypass_22x13_6f.png"
+             enableMidiLearn="0" numStrips="6.0" scaleFactor="2.0"/>
+  <Component type="ScriptLabel" id="Label9" x="90.0" y="370.0" text="Midi Settings"
+             bgColour="12369084" width="70.0" height="21.0" fontStyle="Bold"
+             itemColour2="0" fontName="Lucida Sans" fontSize="12.0" alignment="top"
+             locked="1"/>
+  <Component type="ScriptPanel" id="Panel7" x="0.0" y="160.0" bgColour="4278190080"
+             itemColour="4278190080" itemColour2="4278190080" textColour="4294967295"
+             width="800.0" height="202.0" visible="0">
+    <Component type="ScriptFloatingTile" id="FloatingTile3" x="0.0" y="0.0"
+               width="800.0" height="200.0" parentComponent="Panel7" ContentType="MidiChannelList"
+               bgColour="4278190080" itemColour="0" itemColour2="0"/>
+  </Component>
+  <Component type="ScriptFloatingTile" id="Tooltips" x="532.0" y="380.0" width="270.0"
+             height="40.0" itemColour2="0" ContentType="TooltipPanel" bgColour="16777215"
+             itemColour="16777215" FontSize="10.0" textColour="4293849590"/>
+</ContentProperties>
