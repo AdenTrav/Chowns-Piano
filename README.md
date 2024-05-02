@@ -13,14 +13,23 @@ Chown's Piano © 2024 by Aden Travis is licensed under CC BY-SA 4.0
 <summary>For Standalone</summary>
 
   Step 1: Download the STANDALONE version of the instrument
+  
   Step 2: Extract the downloaded ZIP archive to wherever you would like the program to be installed
+  
   Step 3: Open CHOWNS PIANO.exe, located within the Chowns Piano Standalone folder
+  
   Step 4: Click on locate sample directrory
+  
   Step 5: Navigate to the samples folder and hit select folder
+  
   Step 6: Navigate to the samples archive folder (within the samples folder)
+  
   Step 7: Select the CHOWNS_PIANO_1_0_0_Samples.hr1
+  
   Step 8: Choose where you would like the samples to be extracted to, I would reccomend just putting them in the samples folder itself
+  
   Step 9: Restart the instrument
+  
   Step 10: Plug in a MIDI controller and play the lick... do doo do do dooo do doooo...
 
 </details>
@@ -29,8 +38,11 @@ Chown's Piano © 2024 by Aden Travis is licensed under CC BY-SA 4.0
 <summary>DLL Install for Windows</summary>
   
   Step 1: Download DLL version of the instrument
+  
   Step 2: Extract the downloaded ZIP archive
+  
   Step 3: Drag the DLL file to wherever your DAW looks for plugins
+  
   Step 4:  Your plugin should now be successfully be installed!
   
 </details>
