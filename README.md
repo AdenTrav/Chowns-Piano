@@ -6,7 +6,8 @@ Chown's Piano was recorded using two AKG C414s, and all the piano note samples w
 # Where to Download Instrument and Samples
 Visit https://adentravis.weebly.com/chownspiano.html to download the instrument/samples for Chown's Piano...
 HISE is released under GPLv3 open source license. Chown's Piano Instrument is a free/GPLv3 open source licensed public domain instrument... 
-Chown's Piano © 2024 by Aden Travis is licensed under CC BY-SA 4.0 
+
+**Chown's Piano © 2024 by Aden Travis is licensed under CC BY-SA 4.0 **
 
 # Installation Instructions
 <details>
