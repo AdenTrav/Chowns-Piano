@@ -9,7 +9,7 @@ HISE is released under GPLv3 open source license. Chown's Piano Instrument is a 
 Chown's Piano © 2024 by Aden Travis is licensed under CC BY-SA 4.0 
 
 # Installation Instructions
-(For standalone)
+**(For standalone)**
 Step 1: Download the STANDALONE version of the instrument
 Step 2: Extract the downloaded ZIP archive to wherever you would like the program to be installed
 Step 3: Open CHOWNS PIANO.exe, located within the Chowns Piano Standalone folder
@@ -21,12 +21,12 @@ Step 8: Choose where you would like the samples to be extracted to, I would recc
 Step 9: Restart the instrument
 Step 10: Plug in a MIDI controller and play the lick... do doo do do dooo do doooo...
 
-# (DLL Install for Windows)
+**(DLL Install for Windows)**
 Step 1: Download DLL version of the instrument
 Step 2: Extract the downloaded ZIP archive
 Step 3: Drag the DLL file to wherever your DAW looks for plugins
 Step 4:  Your plugin should now be successfully be installed!
 
-# (For VST3 for Mac)
+**(For VST3 for Mac)**
 The install for Mac devices should be pretty similar to the install for Windows, if you're using Logic Pro here is the normal install location for third party plugins (https://support.apple.com/en-us/102239).
 
