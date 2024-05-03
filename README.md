@@ -51,6 +51,6 @@ Chown's Piano © 2024 by Aden Travis is licensed under CC BY-SA 4.0
 <details>
 <summary>For VST3 for Mac</summary>
 
-The install for Mac devices should be pretty similar to the install for Windows, if you're using Logic Pro here is the **default ** install location for third-party plugins (https://support.apple.com/en-us/102239). Drag the VST file to that folder, or wherever you keep your third-party plugins installed.
+The install for Mac devices should be pretty similar to the install for Windows, if you're using Logic Pro here is the **default** install location for third-party plugins (https://support.apple.com/en-us/102239). Drag the VST file to that folder, or wherever you keep your third-party plugins installed.
 
 </details>
