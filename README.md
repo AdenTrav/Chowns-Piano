@@ -8,7 +8,9 @@ Visit https://adentravis.weebly.com/chownspiano.html to download the instrument/
 HISE is released under GPLv3 open source license. Chown's Piano Instrument is a free/GPLv3 open source licensed public domain instrument... 
 
 Chown's Piano © 2024 by Aden Travis is licensed under CC BY-SA 4.0
+
 **VST®** is a trademark of **Steinberg Media Technologies GmbH**, registered in Europe and other countries.
+
 **VST®** plugin format is supplied by **Steinberg Media Technologies GmbH **
 
 # Installation Instructions
