@@ -10,6 +10,10 @@ HISE is released under GPLv3 open source license. Chown's Piano Instrument is a 
 Chown's Piano © 2024 by Aden Travis is licensed under CC BY-SA 4.0
 
 # Installation Instructions
+
+# UPDATE:
+I have been made aware recently that Logic Pro only supports its native **AU** format for plugins, as a result you **CANNOT** install the plugin for Logic Pro (as of right now). I do not own a Mac device, and therefore cannot export the plugin in the native **Audio Unit** format. I would like to eventually add Logic Pro compatability, but cannot as of right now. I'm sorry to all my Logic users.
+
 <details>
 <summary>For Standalone</summary>
 
@@ -50,7 +54,5 @@ Chown's Piano © 2024 by Aden Travis is licensed under CC BY-SA 4.0
 
 <details>
 <summary>For VST3 for Mac</summary>
-
-The install for Mac devices should be pretty similar to the install for Windows, if you're using Logic Pro here is the **default** install location for third-party plugins (https://support.apple.com/en-us/102239). Drag the VST file to that folder, or wherever you keep your third-party plugins installed.
-
+The install for Mac devices should be pretty similar to the install for Windows, just drop the VST3 instance wherever you keep your third-party plugins.
 </details>
